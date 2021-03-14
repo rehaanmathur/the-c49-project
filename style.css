@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+}
+img{
+    border: 5px solid black;
+    border-radius: 40 px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
